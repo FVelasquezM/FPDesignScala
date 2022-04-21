@@ -1,2 +1,11 @@
 *.class
 *.log
+*/target/*
+*/.metals/
+*/.bsp/
+.bloop/*
+project/project/target/*
+.metals/*
+.scalafmt.conf
+target/*
+project/project/project/target/config-classes/$d7f693a7ca05824a67e2.cache
